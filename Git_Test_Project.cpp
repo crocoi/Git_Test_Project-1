@@ -2,5 +2,5 @@
 
 int main()
 {
-	std::cout << "Hello VisualStudio Git!\n" ;
+	std::cout << "1126\n" ;
 }
