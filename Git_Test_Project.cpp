@@ -2,5 +2,5 @@
 
 int main()
 {
-	std::cout << "azurlane\n" ;
+	std::cout << "neec\n" ;
 }
