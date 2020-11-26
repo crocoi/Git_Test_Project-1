@@ -2,5 +2,5 @@
 
 int main()
 {
-	std::cout << "Neec\n" ;
+	std::cout << "neec\n" ;
 }
