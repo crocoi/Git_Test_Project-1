@@ -2,5 +2,5 @@
 
 int main()
 {
-	std::cout << "remote\n" ;
+	std::cout << "リモートリポジトリで変更した場所\n" ;
 }
