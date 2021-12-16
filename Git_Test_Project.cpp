@@ -2,5 +2,5 @@
 
 int main()
 {
-	std::cout << "test\n" ;
+	std::cout << "リモートでコンフリクト変更した場所\n" ;
 }
