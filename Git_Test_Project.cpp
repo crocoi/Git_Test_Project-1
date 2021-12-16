@@ -2,5 +2,5 @@
 
 int main()
 {
-	std::cout << "test\n" ;
+	std::cout << "ローカルリポジトリで変更した場所\n" ;
 }
